@@ -26,3 +26,14 @@ In recent times, the number of fraud transactions has increased drastically, due
 • isFraud - This is the transactions made by the fraudulent agents inside the simulation. In this specific dataset the fraudulent behavior of the agents aims to profit by taking control or customers accounts and try to empty the funds by transferring to another account and then cashing out of the system.
 
 • isFlaggedFraud - The business model aims to control massive transfers from one account to another and flags illegal attempts. An illegal attempt in this dataset is an attempt to transfer more than 200.000 in a single transaction.
+
+# Steps involved:
+Exploratory data analysis (EDA) - the process of going through a dataset and finding out more about it.
+Model Visualization - the process of going to visualize each variable based on other variables.
+Model Cleaning - To clean the feature variables which doesn't give any beneficial information.
+Unbalanced Model comparison - comparing several different models to find the best one.
+Balancing model - Balancing model using OverRandom Sampling.
+Balanced Model comparison - comparing several different models to find the best one.
+Model Finalization -  To finalize model.
+Deployment
+
