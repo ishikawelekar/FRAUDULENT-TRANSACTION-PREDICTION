@@ -40,7 +40,21 @@ In recent times, the number of fraud transactions has increased drastically, due
 
 • Balanced Model comparison - comparing several different models to find the best one.
 
-•Model Finalization -  To finalize model.
+• Model Finalization -  To finalize model.
 
-•Deployment
+• Deployment
 
+# Libraries Required
+• pandas for data analysis.
+
+• NumPy for numerical operations.
+
+• Matplotlib/seaborn for plotting or data visualization.
+
+• Scikit-Learn for machine learning modelling and evaluation.
+
+• NumPy for numerical operations.
+
+• Matplotlib/seaborn for plotting or data visualization.
+
+• Scikit-Learn for machine learning modelling and evaluation.
